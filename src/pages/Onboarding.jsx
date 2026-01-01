@@ -291,7 +291,7 @@ function Onboarding() {
           to="/manager-login"
           className="text-gray-500 text-xs md:text-sm font-medium hover:underline"
         >
-          Manager Login
+          Manag
         </Link>
       </div>
     </div>
